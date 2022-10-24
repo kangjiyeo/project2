@@ -1,0 +1,930 @@
+
+.Rectangle-2{
+position: absolute;
+width: 1897px;
+height: 43px;
+left: -1px;
+top: 45px;
+
+background: #C7C7C7;
+}
+.shop-ribbon-copy
+{
+position: absolute;
+width: 467px;
+height: 0px;
+left: 751px;
+top: 20px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 0px;
+/* identical to box height, or 0% */
+
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #727272;
+}
+.image
+{
+position: absolute;
+width: 14.24px;
+height: 12.61px;
+left: 1338px;
+top: 14px;
+    
+color: #CFCFCF;
+}
+
+.node
+{
+ justify-content: space-evenly;    
+}
+
+.image5
+{position: absolute;
+    height: 973px;
+    left: 0.41px;
+    top: 88px;
+}
+
+.MacBook
+{   position: absolute;
+    width: 347px;
+    height: 86px;
+    left: 420px;
+    top: 417px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 150%;
+    /* or 82px */
+    
+    text-align: center;
+    
+    color: #000000;       
+}
+
+.powerful
+{   position: absolute;
+    width: 172px;
+    height: 52px;
+    left: 470px;
+    top: 510px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 150%;
+    /* or 42px */
+    
+    text-align: center;
+    
+    color: #000000;      
+}
+
+.M2
+{
+position: absolute;
+width: 40px;
+height: 39px;
+left: 645px;
+top: 510px;
+}
+
+.Find
+{   position: absolute;
+    width: 120px;
+    height: 26px;
+    left: 465px;
+    top: 560px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 18px;
+    line-height: 150%;
+    /* or 27px */
+    
+    text-align: center;
+    
+    color: #3C75AA;
+      
+}
+
+.Buying
+{   position: absolute;
+    width: 105px;
+    height: 26px;
+    left: 610px;
+    top: 560px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 18px;
+    line-height: 150%;
+    /* or 27px */
+    
+    text-align: center;
+    
+    color: #3C75AA;   
+}
+
+.image6
+{position: absolute;
+    height: 973px;
+    left: 0.41px;
+    top: 1000px;       
+}
+
+.iphone
+{   position: absolute;
+    width: 385.02px;
+    height: 83.82px;
+    left: 709px;
+    top: 1124px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 150%;
+    /* or 82px */
+    
+    text-align: center;
+    
+    color: #000000;    
+}
+
+.Daily
+{   position: absolute;
+    width: 366.75px;
+    height: 52.51px;
+    left: 727.27px;
+    top: 1205.77px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* or 38px */
+    
+    text-align: center;
+    
+    color: #000000;   
+}
+
+.Find2
+{   position: absolute;
+    width: 175.65px;
+    height: 34.33px;
+    left: 779px;
+    top: 1255.25px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 150%;
+    /* or 30px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #2B7EAD;
+}
+
+.Buying2
+{   position: absolute;
+    width: 165.81px;
+    height: 34.33px;
+    left: 940px;
+    top: 1255.25px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 150%;
+    /* or 30px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #2B7EAD;   
+}
+.image7
+{position: absolute;
+    left: 0.41px;
+    top: 1980.75px;
+}  
+
+.iphone13
+{
+position: absolute;
+width: 526.94px;
+height: 76.75px;
+left: 667.87px;
+top: 2100.14px;
+
+font-family: 'Sarala';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 150%;
+/* or 82px */
+
+text-align: center;
+
+color: #000000;
+
+}
+.professional
+{   position: absolute;
+    width: 356.92px;
+    height: 35.34px;
+    left: 756.39px;
+    top: 2185.14px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    /* or 38px */
+    
+    text-align: center;
+    
+    color: #000000;
+      
+}
+.Find3
+{   position: absolute;
+    width: 175.65px;
+    height: 34.33px;
+    left: 800px;
+    top: 2230.41px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 150%;
+    /* or 30px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #2B7EAD;   
+}
+.Buying3
+{   position: absolute;
+    width: 165.81px;
+    height: 34.33px;
+    left: 962px;
+    top: 2230.41px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 150%;
+    /* or 30px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #2B7EAD;
+       
+}
+.Location4{
+position: absolute;
+width: 941px;
+height: 474.2px;
+left: 0.41px;
+top: 2980.98px;
+}
+
+.MacBook2
+{   position: absolute;
+    width: 314.76px;
+    height: 51.42px;
+    left: 313.76px;
+    top: 3030.26px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32.8767px;
+    line-height: 150%;
+    /* or 45px */
+    
+    text-align: center;
+    
+    color: #FFFFFF;     
+}
+
+.powerful2
+{   position: absolute;
+    width: 147.54px;
+    height: 28.57px;
+    left: 371.37px;
+    top: 3086.96px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.4383px;
+    line-height: 150%;
+    /* or 21px */
+    
+    text-align: center;
+    
+    color: #FFFFFF;}
+
+.Find4
+{
+    position: absolute;
+    width: 175.65px;
+    height: 38.85px;
+    left: 371.81px;
+    top: 3110.82px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.9158px;
+    line-height: 150%;
+    /* or 16px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #2588E5;
+    
+}
+.Buying4
+{
+position: absolute;
+width: 165.81px;
+height: 38.85px;
+left: 488.23px;
+top: 3110.82px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12.9158px;
+line-height: 150%;
+/* or 16px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #2588E5;
+}
+.M2-1
+{
+    position: absolute;
+    width: 40.75px;
+    height: 34.28px;
+    left: 502.06px;
+    top: 3086.96px;
+    
+    background: url(image.png);
+}
+.Location5{
+position: absolute;
+width: 941px;
+height: 474.2px;
+left: 948.91px;
+top: 2980.98px;
+}
+
+.apple2
+{
+position: absolute;
+width: 36.53px;
+height: 42.28px;
+left: 1330px;
+top: 3011.26px;
+
+background: url(image.png);
+}
+.WATCH
+{ 
+position: absolute;
+width: 154.57px;
+height: 39.99px;
+left: 1353.6px;
+top: 3010.26px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 32.8767px;
+line-height: 150%;
+/* or 34px */
+
+text-align: center;
+
+color: #040707;   
+}
+
+.SERIES7
+{   position: absolute;
+    width: 82.91px;
+    height: 17.14px;
+    left: 1376.08px;
+    top: 3060.26px;
+    
+    font-family: 'Reem Kufi Ink';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 14px;
+    line-height: 150%;
+    /* identical to box height, or 18px */
+    
+    text-align: center;
+    
+    color: #D64F55;
+    }
+
+.Display
+{
+position: absolute;
+width: 271.2px;
+height: 28.57px;
+left: 1279.12px;
+top: 3085.26px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: bolder;
+font-size:  16.4383px;
+line-height: 150%;
+/* or 20px */
+
+text-align: center;
+
+color: #424244;
+}
+
+.Find5
+{ 
+position: absolute;
+width: 175.65px;
+height: 38.85px;
+left: 1325.31px;
+top: 3108.82px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12.9158px;
+line-height: 150%;
+/* or 16px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #2588E5;   
+}
+.Buying5
+{
+    position: absolute;
+    width: 165.81px;
+    height: 38.85px;
+    left: 1448.73px;
+    top: 3108.82px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.9158px;
+    line-height: 150%;
+    /* or 16px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #2588E5;
+}
+
+.Location6{
+position: absolute;
+width: 941px;
+height: 474.2px;   
+left: -1px;
+top: 3560.98px;
+}
+
+.ipad2
+{position: absolute;
+width: 151.79px;
+height: 56.35px;
+left: 364.5px;
+top: 3600px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 32.8767px;
+line-height: 150%;
+/* or 49px */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.air
+{
+    position: absolute;
+    width: 151.79px;
+    height: 56.35px;
+    left: 420px;
+    top: 3600px;
+    
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 32.8767px;
+    line-height: 150%;
+    /* or 49px */
+    
+    text-align: center;
+    
+    color:#C888DE
+}
+
+.Lightly
+{
+position: absolute;
+width: 285.44px;
+height: 33.54px;
+left: 320.15px;
+top: 3660px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16.4383px;
+line-height: 150%;
+/* or 25px */
+
+text-align: center;
+
+color: #FFFFFF;
+   
+}
+
+.Find6
+{   position: absolute;
+    width: 206.24px;
+    height: 45.62px;
+    left: 360px;
+    top: 3690px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.9158px;
+    line-height: 150%;
+    /* or 19px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #2588E5;
+       
+}
+
+.Buying6
+{
+position: absolute;
+width: 194.69px;
+height: 45.62px;
+left: 510.99px;
+top: 3690px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12.9158px;
+line-height: 150%;
+/* or 19px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #2588E5;
+   
+}
+
+
+.Location7{
+position: absolute;
+width: 941px;
+height: 474.2px;
+left: 954.53px;
+top: 3560.98px;
+}
+
+.Airpods
+{   position: absolute;
+    width: 210px;
+    height: 48px;
+    left: 1318px;
+    top:  3600px;
+    
+    font-family: 'Sansation';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32.8767px;
+    line-height: 150%;
+    /* or 42px */
+    
+    text-align: center;
+    
+    color: #FFFFFF;      
+}
+.fascination
+{   position: absolute;
+    width: 243px;
+    height: 28px;
+    left: 1302px;
+    top: 3660px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.4383px;
+    line-height: 150%;
+    /* or 21px */
+    
+    text-align: center;
+    
+    color: #FFFFFF;   
+}
+.Find7
+{  position: absolute;
+    width: 175px;
+    height: 38px;
+    left: 1340px;
+    top: 3690px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size:12.9158px;
+    line-height: 150%;
+    /* or 16px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #2588E5;
+}    
+.Buying7
+{
+position: absolute;
+width: 166px;
+height: 38px;
+left: 1460px;
+top: 3690px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12.9158px;
+line-height: 150%;
+/* or 16px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #2588E5;
+}
+.Location8{
+position: absolute;
+width: 941px;
+height:474.2px;
+left: -1px;
+top: 4155.8px;     
+}
+.New
+{position: absolute;
+width: 125.06px;
+height: 21.71px;
+left: 395.26px;
+top: 4580.6px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 15px */
+
+text-align: center;
+
+color: #555557;
+}
+
+.ipad
+{   position: absolute;
+    width: 77.29px;
+    height: 47.99px;
+    left: 420.34px;
+    top: 4600px;
+    
+    font-family: 'Sansation';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32.8767px;
+    line-height: 150%;
+    /* or 42px */
+    
+    text-align: center;
+    
+    color: #1D1D1F;    
+}
+
+.Easily
+{position: absolute;
+width: 143.33px;
+height: 21.71px;
+left: 386.43px;
+top: 4660px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: bolder;
+font-size:  16.4383px;
+line-height: 150%;
+/* or 21px */
+
+text-align: center;
+
+color: #555557;
+}
+
+.Find8
+{   position: absolute;
+    width: 175.65px;
+    height: 38.85px;
+    left: 360.79px;
+    top: 4690px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.9158px;
+    line-height: 150%;
+    /* or 16px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #2588E5;
+}
+
+.Buying8
+{   position: absolute;
+    width: 165.81px;
+    height: 38.85px;
+    left: 500.2px;
+    top: 4690px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.9158px;
+    line-height: 150%;
+    /* or 16px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #2588E5;      
+}
+.Location9{
+position: absolute;
+width: 941px;
+height:474.2px;
+left: 953.12px;
+top: 4155.8px;  
+}
+
+.apple3
+{
+position: absolute;
+width: 40.75px;
+height: 35.42px;
+left: 1366.25px;
+top: 4565px;
+}
+.Television
+{position: absolute;
+width: 66.04px;
+height: 51.42px;
+left: 1398.56px;
+top: 4560px;
+
+font-family: 'Sarabun';
+font-style: normal;
+font-weight: 700;
+font-size: 32.8767px;
+line-height: 150%;
+/* or 45px */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.appleTV
+{
+position: absolute;
+width: 224.83px;
+height: 49.13px;
+left: 1305.44px;
+top: 4610px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.Find9
+{
+position: absolute;
+width: 175.65px;
+height: 38.85px;
+left: 1310.45px;
+top: 4670px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12.9158px;
+line-height: 150%;
+/* or 16px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #2588E5;
+}
+.Buying9
+{
+position: absolute;
+width: 160.19px;
+height: 38.85px;
+left: 1440.51px;
+top: 4670px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12.9158px;
+line-height: 150%;
+/* or 16px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #2588E5;
+   
+}
